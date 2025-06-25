@@ -6,7 +6,9 @@ MapNortheastCapacity - [Link](https://nbviewer.org/github/jf-morris/SharedNotebo
 
 ### Energy Maps
 
-Coming soon.
+[US Existing Capacity](https://jf-morris.github.io/SharedNotebooks/maps/us_capacity.html)
+
+More coming soon.
 
 ### Other Maps
 
