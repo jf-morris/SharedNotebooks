@@ -8,6 +8,8 @@ MapNortheastCapacity - [Link](https://nbviewer.org/github/jf-morris/SharedNotebo
 
 [US Existing Capacity](https://jf-morris.github.io/SharedNotebooks/maps/us_capacity.html)
 
+[Northeastern North American Existing Capacity](https://jf-morris.github.io/SharedNotebooks/maps/nena_capacity.html)
+
 More coming soon.
 
 ### Other Maps
